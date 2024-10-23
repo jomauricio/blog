@@ -1,0 +1,19 @@
+.content{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+}
+
+.brand{
+  color: cornflowerblue;
+  font-size: large;
+  font-weight: bold;
+}
+
+.menu{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 10px;
+}
